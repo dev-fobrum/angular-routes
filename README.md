@@ -1,3 +1,8 @@
+# Featured Images
+<div align="center">
+    <img src="./screenshots/screenshot_1.png" width="1920">
+</div>
+
 # FinalProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
